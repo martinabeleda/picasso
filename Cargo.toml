@@ -11,3 +11,4 @@ crate-type = ["cdylib"]
 [dependencies]
 pyo3 = { version = "0.16.3", features = ["extension-module"] }
 geo = "0.20.1"
+wkt = "0.10.0"
