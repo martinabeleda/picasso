@@ -1,5 +1,8 @@
 # Picasso
 
+[![CI](https://github.com/martinabeleda/picasso/workflows/ci/badge.svg?event=push)](https://github.com/martinabeleda/picasso/actions?query=event%3Apush+branch%3Amain+workflow%3Aci)
+[![code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
+
 Fast Python geometry manipulation using the Rust [geo](https://github.com/georust/geo) library
 
 The geo crate provides geospatial primitive types such as Point, LineString, and Polygon, and provides algorithms and operations such as:
